@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo No rebasing is allow
+
+exit 1
